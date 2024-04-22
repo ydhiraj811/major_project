@@ -1,0 +1,12 @@
+﻿Flask
+firebase-admin
+openai
+pymongo
+gtts
+pyttsx3
+googletrans
+opencv-python
+Pillow
+moviepy
+selenium
+
