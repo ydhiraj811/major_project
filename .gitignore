@@ -1,4 +1,7 @@
 /venv
+/myenv
+/node_modules
+/.idea
 /tmp_assets
 /tmp_images
 /delete
